@@ -1,0 +1,7 @@
+{
+  "name": "SafeSignal",
+  "description": "A Firebase-powered offline + online safety app that helps users automatically notify their family when they lose or regain network connection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
